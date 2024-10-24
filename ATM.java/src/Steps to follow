@@ -1,0 +1,9 @@
+cd C:\
+
+git clone https://github.com/Mahanteshprabhu/ATM.git
+
+cd C:\ATM/ATM.java/src
+
+javac ATM.java
+
+java ATM
