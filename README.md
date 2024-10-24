@@ -1,4 +1,4 @@
-#ATM System in Java
+ATM System in Java
 This project implements a Functional Automated Teller Machine (ATM) in Java, allowing users to securely manage their bank accounts. The ATM stores essential user information such as bank account details, account numbers, and passwords, enabling a simple and intuitive banking experience.
 
 Features
